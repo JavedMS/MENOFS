@@ -6,3 +6,6 @@
 
 # Ignore the model run subfolders
 EU10CS/
+
+.snakemake
+
